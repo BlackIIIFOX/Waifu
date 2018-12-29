@@ -1,0 +1,10 @@
+_APPEND_NEW_TEM_
+  Привет
+_APPEND_CONST
+ 	Привет
+	Здоров
+        Хай
+_APPEND_ANSWER
+	И тебе привет
+	Хеллоу
+

@@ -1,0 +1,5 @@
+cd C:/Program Files/MySQL/MySQL Server 5.7/bin
+
+mysqldump -u root -ph8970102742 waifu > C:\Учеба\3_курс\Интелектуальный_интернет\Программы\python\MyProject\MySQL\dump_waifu.sql
+
+mysql -u root -ph8970102742 waifu_test < C:\Учеба\3_курс\Интелектуальный_интернет\Программы\python\MyProject\MySQL\dump_waifu.sql
